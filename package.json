@@ -1,17 +1,12 @@
 {
-  "name": "horizon-theme-vscode",
+  "name": "horizon-theme-vscode-zomatree",
   "version": "1.0.1",
-  "author": "Alexander Nanberg",
-  "displayName": "Horizon Theme",
+  "author": "zomatree",
+  "displayName": "Horizon Theme Zomatree",
   "description": "A beautifully warm dual theme for Visual Studio Code",
-  "publisher": "alexandernanberg",
+  "publisher": "zomatree",
   "license": "MIT",
   "icon": "logo.png",
-  "scripts": {
-    "build": "npm run build:dark && npm run build:bright && prettier . --write",
-    "build:dark": "node src/dark/build",
-    "build:bright": "node src/bright/build"
-  },
   "engines": {
     "vscode": "^1.26.0"
   },
@@ -34,43 +29,14 @@
         "label": "Horizon",
         "uiTheme": "vs-dark",
         "path": "./themes/horizon.json"
-      },
-      {
-        "label": "Horizon Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/horizon-italic.json"
-      },
-      {
-        "label": "Horizon Bold",
-        "uiTheme": "vs-dark",
-        "path": "./themes/horizon-bold.json"
-      },
-      {
-        "label": "Horizon Bright",
-        "uiTheme": "vs",
-        "path": "./themes/horizon-bright.json"
-      },
-      {
-        "label": "Horizon Bright Italic",
-        "uiTheme": "vs",
-        "path": "./themes/horizon-bright-italic.json"
-      },
-      {
-        "label": "Horizon Bright Bold",
-        "uiTheme": "vs",
-        "path": "./themes/horizon-bright-bold.json"
       }
     ]
   },
-  "devDependencies": {
-    "mustache": "^3.0.1",
-    "prettier": "^2.5.0"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexandernanberg/horizon-theme-vscode"
+    "url": "https://github.com/zomatree/horizon-theme-vscode"
   },
   "bugs": {
-    "url": "https://github.com/alexandernanberg/horizon-theme-vscode/issues"
+    "url": "https://github.com/zomatree/horizon-theme-vscode/issues"
   }
 }

@@ -24,10 +24,10 @@ def topo(G, ind=None, Q=[1]):
 class SomeClass:
     def create_arr(self):
         self.arr = []
-    
+
     def insert_to_arr(self, value):
         self.arr.append(value)
-        
+
     @classmethod
     def class_method(cls):
         print("the class method was called")
