@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="preview" src="https://raw.githubusercontent.com/zomatree/horizon-theme-vscode/master/preview.png" width="90%">
+  <img alt="preview" src="https://raw.githubusercontent.com/Zomatree/horizon-theme-vscode/master/preview.png" width="90%">
 </p>
 
 ## Installation
