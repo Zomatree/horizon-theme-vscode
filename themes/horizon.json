@@ -1,5 +1,5 @@
 {
-  "name": "Horizon",
+  "name": "Horizon - Zomatree",
   "type": "dark",
   "colors": {
     "focusBorder": "#1A1C23",
@@ -33,7 +33,7 @@
     "list.inactiveSelectionForeground": "#D5D8DA",
     "list.inactiveFocusBackground": "#2E303E80",
     "list.errorForeground": "#F43E5CE6",
-    "list.warningForeground": "#27D797B3",
+    "list.warningForeground": "#FAA352",
     "activityBar.background": "#1C1E26",
     "activityBar.dropBackground": "#6C6F9380",
     "activityBar.foreground": "#D5D8DAB3",
@@ -73,9 +73,9 @@
     "editorOverviewRuler.addedForeground": "#09F7A080",
     "editorOverviewRuler.deletedForeground": "#F43E5C80",
     "editorOverviewRuler.errorForeground": "#F43E5CE6",
-    "editorOverviewRuler.warningForeground": "#27D79780",
+    "editorOverviewRuler.warningForeground": "#FAA352",
     "editorOverviewRuler.bracketMatchForeground": "#D5D8DA80",
-    "editorWarning.foreground": "#27D797B3",
+    "editorWarning.foreground": "#FAA352",
     "editorGutter.modifiedBackground": "#21BFC2B3",
     "editorGutter.addedBackground": "#09F7A0B3",
     "editorGutter.deletedBackground": "#F43E5CB3",
