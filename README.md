@@ -5,7 +5,7 @@
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
-2. Search for `Horizon Theme`
+2. Search for `Horizon Theme Zomatree`
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 5. Select **Preferences: Color Theme** and choose a Horizon variant.
